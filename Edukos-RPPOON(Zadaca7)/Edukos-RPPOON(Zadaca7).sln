@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edukos-RPPOON(Zadaca7)", "Edukos-RPPOON(Zadaca7).csproj", "{8ACB48DD-7FE4-4FCC-BC69-7A0AB6E27751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrugiZadatakSedmaZadaca", "..\DrugiZadatakSedmaZadaca\DrugiZadatakSedmaZadaca.csproj", "{F0A3DDB6-0189-48E0-9EB2-D6A554FC37B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACB48DD-7FE4-4FCC-BC69-7A0AB6E27751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACB48DD-7FE4-4FCC-BC69-7A0AB6E27751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACB48DD-7FE4-4FCC-BC69-7A0AB6E27751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACB48DD-7FE4-4FCC-BC69-7A0AB6E27751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A3DDB6-0189-48E0-9EB2-D6A554FC37B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A3DDB6-0189-48E0-9EB2-D6A554FC37B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A3DDB6-0189-48E0-9EB2-D6A554FC37B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A3DDB6-0189-48E0-9EB2-D6A554FC37B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79249F8-4DDA-44F5-9FBF-124A1840E004}
+	EndGlobalSection
+EndGlobal
